@@ -1,3 +1,3 @@
-# Quiz 10 exercise
+# ESLint Dev Environment
 
-Code to be used to start the Quiz 10 exercise.
+ESLint Dev Environment for ITIS 4166 Quiz 10 exercise.
